@@ -2,7 +2,7 @@
 I'm currently looking for new job as junior front-end developer.
 
 <hr style="height: 0.1em;">
-### My Socials:
+<h2>My Socials:</h2>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/michalbarczynski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://pl.linkedin.com/in/michal-barczynski-607861191/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mollydays_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/mollydays) 
 
 <hr style="height: 0.1em;">
