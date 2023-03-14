@@ -1,11 +1,11 @@
 <h1>Hi there 👋, My name is Michał<h1>
-<h3>I'm currently looking for new job as junior front-end developer.<h3>
+<p>I'm currently looking for new job as junior front-end developer.<p>
 
-<h2>My socials:<h2>
+<h1>My socials:<h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/michalbarczynski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://pl.linkedin.com/in/michal-barczynski-607861191/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mollydays_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/mollydays) 
 
-<h2>My Tech Stack:</h2>
+<h1>My Tech Stack:</h1>
 <div style="display: flex;">
 <img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24" style="max-width: 100%;">
 <img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24" style="max-width: 100%;">
